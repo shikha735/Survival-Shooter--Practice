@@ -1,4 +1,4 @@
 sceneSetups:
-- path: D:/Unity/Animations/Assets/AttackBot/attackBot.unity
+- path: Assets/Scenes/Level 01.unity
   isLoaded: 1
   isActive: 1
